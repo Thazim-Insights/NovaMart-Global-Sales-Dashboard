@@ -1,4 +1,4 @@
-# NovaMart Global Sales Dashboard
+<img width="1421" height="802" alt="Screenshot 2026-06-15 143922" src="https://github.com/user-attachments/assets/07b29c5e-cc94-43d7-8bb9-1b79831c46c6" /># NovaMart Global Sales Dashboard
 ### Power BI · DAX · Power Query
 
 ---
