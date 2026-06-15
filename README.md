@@ -55,13 +55,13 @@ Return rate KPIs, returns by region, shipping cost by region, least selling prod
 ## Dashboard Screenshots
 
 ### Page 1 — Executive Summary
-![Executive Summary](screenshots/page1_executive_summary.png)
+![Executive Summary](page1_executive_summary.png)
 
 ### Page 2 — Regional & Returns Analysis
-![Regional Analysis](screenshots/page2_regional_returns.png)
+![Regional Analysis](page2_regional_returns.png)
 
 ### Page 3 — Insights & Actions
-![Insights](screenshots/page3_insights_actions.png)
+![Insights](page3_insights_actions.png)
 
 ---
 
